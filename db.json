@@ -1,8 +1,40 @@
 {
   "users": [
-    { "id": 1, "timestamps": "2019-06-26 15:42:12", "enabled": "true", "name": "Haddock", "email": "haddock@chezlui.fr", "password": "ectoplasme", "remember_token": "null" },
-    { "id": 2, "timestamps": "2019-03-13 08:11:17", "enabled": "false", "name": "Dupond", "email": "dupond@chezlui.fr", "password": "vision_double", "remember_token": "null" },
-    { "id": 3, "timestamps": "2019-01-30 11:24:31", "enabled": "true", "name": "Tournesol", "email": "tournesol@chezlui.fr", "password": "sourdingue", "remember_token": "null" },
-    { "id": 4, "timestamps": "2019-11-12 17:04:01", "enabled": "true", "name": "Tintin", "email": "tintin@chezlui.fr", "password": "milou", "remember_token": "null" },
-  ],
+    {
+      "id": 1,
+      "timestamps": "2019-06-26 15:42:12",
+      "enabled": "true",
+      "name": "Haddock",
+      "email": "haddock@chezlui.fr",
+      "password": "ectoplasme",
+      "remember_token": null
+    },
+    {
+      "id": 2,
+      "timestamps": "2019-03-13 08:11:17",
+      "enabled": "false",
+      "name": "Dupond",
+      "email": "dupond@chezlui.fr",
+      "password": "vision_double",
+      "remember_token": null
+    },
+    {
+      "id": 3,
+      "timestamps": "2019-01-30 11:24:31",
+      "enabled": "true",
+      "name": "Tournesol",
+      "email": "tournesol@chezlui.fr",
+      "password": "sourdingue",
+      "remember_token": null
+    },
+    {
+      "id": 4,
+      "timestamps": "2019-11-12 17:04:01",
+      "enabled": "true",
+      "name": "Tintin",
+      "email": "tintin@chezlui.fr",
+      "password": "milou",
+      "remember_token": null
+    }
+  ]
 }
