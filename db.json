@@ -41,13 +41,13 @@
       "remember_token": null
     }
   ]
-  "Customer"
+  "Customer":
     {
       "locations": [
         "Montbrison", "Bourg-Argental", "Saint-Etienne", "Noirétable"
     ]
   }
-  "Contacts"
+  "Contacts":
     {
       "title": "0",
       "first_name":"Bernard",
