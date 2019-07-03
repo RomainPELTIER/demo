@@ -40,44 +40,47 @@
       "password": "milou",
       "remember_token": null
     }
-  ]
-  "Customer":
-    {
-      "locations": [
-        "Montbrison", "Bourg-Argental", "Saint-Etienne", "Noirétable"
+  ],
+  "Customer": {
+    "locations": [
+      "Montbrison",
+      "Bourg-Argental",
+      "Saint-Etienne",
+      "Noirétable"
+    ],
+    "Contacts": [
+      {
+        "title": "0",
+        "first_name": "Bernard",
+        "last_name": "Dupont",
+        "phone": "0102030405",
+        "email": "Dupont@chezlui.fr",
+        "role": "HR"
+      },
+      {
+        "title": "1",
+        "first_name": "Christine",
+        "last_name": "Boutin",
+        "phone": "0666666666",
+        "email": "chrichri666@hell.fr",
+        "role": "Director"
+      },
+      {
+        "title": "0",
+        "first_name": "Dominique",
+        "last_name": "Strauss-Kahn",
+        "phone": "0636153615",
+        "email": "dodo@chezlui.fr",
+        "role": "Director"
+      },
+      {
+        "title": "1",
+        "first_name": "Aline",
+        "last_name": "Revienne",
+        "phone": "0706050403",
+        "email": "crier@crier.fr",
+        "role": "HR"
+      }
     ]
   }
-  "Contacts":
-    {
-      "title": "0",
-      "first_name":"Bernard",
-      "last_name":"Dupont",
-      "phone":"0102030405",
-      "email":"Dupont@chezlui.fr",
-      "role":"HR"
-    },
-    {
-      "title": "1", 
-      "first_name":"Christine",
-      "last_name":"Boutin",
-      "phone":"0666666666",
-      "email":"chrichri666@hell.fr",
-      "role":"Director"
-    },
-    {
-      "title": "0",
-      "first_name":"Dominique",
-      "last_name":"Strauss-Kahn",
-      "phone":"0636153615",
-      "email":"dodo@chezlui.fr",
-      "role":"Director"
-    },
-    {
-      "title": "1",
-      "first_name":"Aline",
-      "last_name":"Revienne",
-      "phone":"0706050403",
-      "email":"crier@crier.fr",
-      "role":"HR"
-    }
 }
