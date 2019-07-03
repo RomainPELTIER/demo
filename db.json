@@ -41,46 +41,48 @@
       "remember_token": null
     }
   ],
-  "customer": {
-    "locations": [
-      "Montbrison",
-      "Bourg-Argental",
-      "Saint-Etienne",
-      "Noirétable"
-    ],
-    "contacts": [
-      {
-        "title": "0",
-        "first_name": "Bernard",
-        "last_name": "Dupont",
-        "phone": "0102030405",
-        "email": "Dupont@chezlui.fr",
-        "role": "HR"
-      },
-      {
-        "title": "1",
-        "first_name": "Christine",
-        "last_name": "Laurent",
-        "phone": "0608796052",
-        "email": "christine66@chezelle.fr",
-        "role": "Director"
-      },
-      {
-        "title": "0",
-        "first_name": "Dominique",
-        "last_name": "Lemarchand",
-        "phone": "0636136152",
-        "email": "domi@chezlui.fr",
-        "role": "Director"
-      },
-      {
-        "title": "1",
-        "first_name": "Aline",
-        "last_name": "Bernard",
-        "phone": "0706050403",
-        "email": "Aline02@chezelle.fr",
-        "role": "HR"
-      }
-    ]
-  }
+  "customer": [
+    {
+      "locations": [
+        "Montbrison",
+        "Bourg-Argental",
+        "Saint-Etienne",
+        "Noirétable"
+      ],
+      "contacts": [
+        {
+          "title": "0",
+          "first_name": "Bernard",
+          "last_name": "Dupont",
+          "phone": "0102030405",
+          "email": "Dupont@chezlui.fr",
+          "role": "HR"
+        },
+        {
+          "title": "1",
+          "first_name": "Christine",
+          "last_name": "Laurent",
+          "phone": "0608796052",
+          "email": "christine66@chezelle.fr",
+          "role": "Director"
+        },
+        {
+          "title": "0",
+          "first_name": "Dominique",
+          "last_name": "Lemarchand",
+          "phone": "0636136152",
+          "email": "domi@chezlui.fr",
+          "role": "Director"
+        },
+        {
+          "title": "1",
+          "first_name": "Aline",
+          "last_name": "Bernard",
+          "phone": "0706050403",
+          "email": "Aline02@chezelle.fr",
+          "role": "HR"
+        }
+      ]
+    }
+  ]
 }
