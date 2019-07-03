@@ -43,6 +43,7 @@
   ],
   "customer": [
     {
+      "id": 1,
       "locations": [
         "Montbrison",
         "Bourg-Argental",
@@ -51,7 +52,6 @@
       ],
       "contacts": [
         {
-          "id": "1",
           "title": "0",
           "first_name": "Bernard",
           "last_name": "Dupont",
@@ -60,7 +60,6 @@
           "role": "HR"
         },
         {
-          "id": "2",
           "title": "1",
           "first_name": "Christine",
           "last_name": "Laurent",
@@ -69,7 +68,6 @@
           "role": "Director"
         },
         {
-          "id": "3",
           "title": "0",
           "first_name": "Dominique",
           "last_name": "Lemarchand",
@@ -78,7 +76,6 @@
           "role": "Director"
         },
         {
-          "id": "4",
           "title": "1",
           "first_name": "Aline",
           "last_name": "Bernard",
