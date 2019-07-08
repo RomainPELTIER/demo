@@ -44,10 +44,11 @@
   "customer": [
     {
       "id": 1,
+      "name": "Alburni",
       "parent_company_name": "Levell",
       "business_name": "Project_talento",
       "siret": "123456789",
-      "address_name": "",
+      "address_name": "Levell",
       "address_line_1": "Société Levell",
       "address_line_2": "33 Boulevard Antonio Vivaldi",
       "address_line_3": "Saint-Etienne",
