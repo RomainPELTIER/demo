@@ -44,7 +44,6 @@
   "customer": [
     {
       "id": 1,
-      "name": "Alburni",
       "parent_company_name": "Levell",
       "business_name": "Project_talento",
       "siret": "123456789",
