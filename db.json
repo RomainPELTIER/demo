@@ -96,5 +96,31 @@
         }
       ]
     }
+  ],
+  "candiate": [
+    {
+      "id": 1,
+      "title": "0",
+      "firstname": "Alain",
+      "lastname": "Bernard",
+      "phone": "0556664691",
+      "email": "alain.bernard@orange.fr",
+      "skype_account": "alainber33@skype.com",
+      "source": "",
+      "has_driving_license": "1",
+      "vehicule": "1",
+      "comments": "lorem ipsum ad eratum",
+      "archive_box_number": "45",
+      "registred_job_center": "fe21563r",
+      "locations": [
+        "Montbrison",
+        "Bourg-Argental",
+        "Saint-Etienne",
+        "Noirétable"
+      ],
+      "salary_expectations": "nothing",
+      "jobs": "first job",
+      "jobs_level": "beginner"
+    }
   ]
 }
