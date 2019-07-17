@@ -195,5 +195,27 @@
       "job_start_date": "2019-07-17",
       "reporting_note": "Candidat disponible à partir du 30 février"
     }
+  ],
+  "mail": [
+    {
+      "id": 1,
+      "created_at": "2019-07-16 16:09:11",
+      "updated_at": "2019-07-16 16:09:11",
+      "type": "service_contract",
+      "subject": "Contrat de prestation - Talento",
+      "body": "<p>Bonjour [name],</p>\n<p>&nbsp;</p>\n<p>Vous trouverez en pi&egrave;ce-jointe le contrat de service pour votre commande n&deg;[order_id].</p>\n<p>Merci de bien vouloir nous le retourner au plus t&ocirc;t.</p>\n<p>&nbsp;</p>\n<p>Cordialement,<br />L'&eacute;quipe Talento.</p>",
+      "cc": null,
+      "bcc": "talento@levell.fr"
+    },
+    {
+      "id": 2,
+      "created_at": "2019-07-16 16:09:11",
+      "updated_at": "2019-07-16 16:09:11",
+      "type": "reporting",
+      "subject": "Rapport hebdomadaire - Talento",
+      "body": "<p>Bonjour [name],</p>\n<p>&nbsp;</p>\n<p>Vous trouverez en pi&egrave;ce-jointe le rapport hebdomadaire pour votre commande n&deg;[order_id].</p>\n<p>Merci de bien vouloir nous le retourner au plus t&ocirc;t.</p>\n<p>&nbsp;</p>\n<p>Cordialement,<br />L'&eacute;quipe Talento.</p>",
+      "cc": null,
+      "bcc": "talento@levell.fr"
+    }
   ]
 }
