@@ -169,5 +169,31 @@
       "cancel_date": null,
       "cancel_reason": null
     }
+  ],
+  "candidate_order": [
+    {
+      "id": 1,
+      "created_at": "2019-07-17 12:07:28",
+      "updated_at": "2019-07-17 12:07:28",
+      "candidate_id": 1,
+      "order_id": 1,
+      "first_contact_date": "2019-07-17 14:23:57",
+      "phone_meeting_date": "2019-07-17 14:23:57",
+      "application_state_id": 0,
+      "real_meeting_state_id": 0,
+      "real_meeting_date": "2019-07-17 14:23:57",
+      "post_meeting_state_id": 0,
+      "post_meeting_date": "2019-07-17 14:23:57",
+      "customer_application_state_id": 0,
+      "customer_interview_state_id": 0,
+      "customer_interview_date": "2019-07-17 14:23:57",
+      "coaching_meeting_state_id": 0,
+      "coaching_meeting_date": "2019-07-17 14:23:57",
+      "customer_second_interview_state_id": 0,
+      "customer_second_interview_date": "2019-07-17 14:23:57",
+      "job_hire_date": "2019-07-17",
+      "job_start_date": "2019-07-17",
+      "reporting_note": "Candidat disponible à partir du 30 février"
+    }
   ]
 }
