@@ -40,17 +40,20 @@
   "customer": [
     {
       "id": 1,
-      "name": "Alburni",
-      "parent_company_name": "Levell",
-      "business_name": "Project_talento",
+      "name": "Levell",
+      "logo": null,
+      "business_name": "Talento",
+      "parent_company_name": "Levell SAS",
       "siret": "123456789",
       "address_name": "Levell",
-      "address_line_1": "Société Levell",
-      "address_line_2": "33 Boulevard Antonio Vivaldi",
-      "address_line_3": "Saint-Etienne",
+      "address_line_1": "33 Boulevard Antonio Vivaldi",
+      "address_line_2": "",
+      "address_line_3": "",
       "address_zipcode": "42000",
+      "address_city": "Saint-Étienne",
+      "use_deposit": true,
       "domain": "Web development",
-      "comments": "Test",
+      "comments": "Développement d'applications personnalisées, spécialité logistique",
       "locations": [
         "Montbrison",
         "Bourg-Argental",
@@ -59,7 +62,7 @@
       ],
       "contacts": [
         {
-          "title": "0",
+          "title": 0,
           "first_name": "Bernard",
           "last_name": "Dupont",
           "phone": "0102030405",
@@ -67,28 +70,12 @@
           "role": "HR"
         },
         {
-          "title": "1",
+          "title": 1,
           "first_name": "Christine",
           "last_name": "Laurent",
           "phone": "0608796052",
           "email": "christine66@chezelle.fr",
           "role": "Director"
-        },
-        {
-          "title": "0",
-          "first_name": "Dominique",
-          "last_name": "Lemarchand",
-          "phone": "0636136152",
-          "email": "domi@chezlui.fr",
-          "role": "Director"
-        },
-        {
-          "title": "1",
-          "first_name": "Aline",
-          "last_name": "Bernard",
-          "phone": "0706050403",
-          "email": "Aline02@chezelle.fr",
-          "role": "HR"
         }
       ]
     }
