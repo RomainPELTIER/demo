@@ -83,27 +83,30 @@
   "candidate": [
     {
       "id": 1,
-      "title": "0",
+      "title": 0,
       "firstname": "Alain",
       "lastname": "Bernard",
-      "phones": "0556664691",
-      "emails": "alain.bernard@orange.fr",
+      "phones": ["0556664691"],
+      "emails": ["alain.bernard@orange.fr"],
       "skype_account": "alainber33@skype.com",
-      "source": "",
-      "has_driving_license": "1",
-      "vehicule": "1",
-      "comments": "lorem ipsum ad eratum",
+      "source": "jobboard",
+      "has_driving_license": true,
+      "vehicule": true,
+      "comments": "Disponible à partir de novembre 2019.",
       "archive_box_number": "45",
-      "registred_job_center": "0",
-      "locations": [
-        "Montbrison",
-        "Bourg-Argental",
-        "Saint-Etienne",
-        "Noirétable"
-      ],
-      "salary_expectations": "nothing",
-      "jobs": "first job",
-      "jobs_level": "beginner"
+      "registred_job_center": false,
+      "diploma": {
+        "title": "Staps",
+        "years_level": 3,
+        "graduation_year": "2019"
+      },
+      "locations": ["Montbrison", "Saint-Etienne"],
+      "salary_expectations": "Entre 30k€ et 40k€",
+      "jobs": "Nageur professionel",
+      "jobs_level": "expert",
+      "cv_file": null,
+      "created_at": "2019-07-17 10:17:11",
+      "updated_at": "2019-07-17 10:17:11"
     }
   ],
   "tag": [
